@@ -21,7 +21,7 @@ async def delay_time(ms):
 browser = None
 
 # telegram消息
-message = 'serv00&ct8自动化脚本运行\n'
+message = 'serv00&ct8_phpll自动化脚本运行\n'
 
 async def login(username, password, panel):
     global browser
